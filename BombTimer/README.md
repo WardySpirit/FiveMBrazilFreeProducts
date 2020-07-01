@@ -1,6 +1,6 @@
 <!--<p style="align: center;">![Bomb Timer Banner](https://i.ibb.co/jrc9kkH/bombtimer.png)</p>-->
 
-<p style="text-align: center;"><img style="right: 50%;" src="https://i.ibb.co/jrc9kkH/bombtimer.png" alt="BombTimerBanner"></p>
+<p style="text-align: center;"><img src="https://i.ibb.co/jrc9kkH/bombtimer.png" alt="BombTimerBanner"></p>
 
 <h1 style="text-align: center;">BombTimer</h1>
 <h3 style="text-align: center;">Desligue seu servidor automaticamente</h3>
