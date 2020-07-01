@@ -11,7 +11,7 @@
 * [Como o BombTimer funciona](#como-o-bombtimer-funciona)
 * [Em quais servers o BombTimer é compatível](#em-quais-servers-o-bombtimer-é-compatível)
 * [Como usar o BombTimer](#como-usar-o-bombtimer)
-* [Bug e Aprimoramentos](#bugs-e-aprimoramentos)
+* [Bugs e Aprimoramentos](#bugs-e-aprimoramentos)
 * [Contatos](#contatos)
 
 <hr>
@@ -144,3 +144,5 @@ Se você é um desenvolvedor e viu alguma coisa que poderia ser aprimorada, cont
 Meu Discord: `Fenrir#9143`
 
 Meu Servidor: `https://discord.gg/KkCBwsQ`
+
+Whatsapp: `+19 997775111`
