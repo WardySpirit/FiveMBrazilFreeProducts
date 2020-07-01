@@ -16,7 +16,7 @@
 
 <hr>
 
-## O que é o BombTimer
+# O que é o BombTimer
 
 O BombTimer veio com a ideia de criar uma forma de desligar um servidor sem a necessidade de um humano supervisionando e fazendo isso manualmente e sem a necessidade de terceiros.
 
@@ -26,7 +26,7 @@ Nao fique assustado quanto ao nome do script, o script nao "explode" seu servido
 
 <hr>
 
-## Como o BombTimer funciona
+# Como o BombTimer funciona
 
 Demorei um tempo ate descobrir como faria com que o script conseguisse fechar o servidor, ja que a biblioteca do FiveM nao distribui nenhuma forma de fazer isso, tanto pelo client, quanto pelo server.
 
@@ -34,7 +34,7 @@ Por esse motivo eu ultilizei um arquivo, escrito em C#, na qual ele ira escanear
 
 Em meu servidor exibido em [Contatos](#contatos), voce podera comprar meus servicos para que eu possa, por motivos de aprimoramento e aprendizado, explicar linha por linha de meu script de forma mais detalhada.
 
-## Em quais servers o BombTimer é compatível
+# Em quais servers o BombTimer é compatível
 
 Essa é a maravilha do BombTimer, ele foi feito completamente com funcoes padroes da biblioteca do FiveM e alguns metodos do proprio Lua. Por esse motivo, ela é **100% compatível com qualquer framework**, ou seja, com qualquer base.
 
@@ -42,7 +42,7 @@ Essa é a maravilha do BombTimer, ele foi feito completamente com funcoes padroe
 
 <hr>
 
-## Como usar o BombTimer
+# Como usar o BombTimer
 
 Aqui nos dividimos em 3 fases:
 
@@ -74,7 +74,7 @@ Caso o seu servidor ainda ultilize `__resource.lua` para linkar os scripts ao se
 
 O BombTimer possui apenas 2 comandos:
 
-### /startBombTimer [Timer] [Mode] [Jump]
+## /startBombTimer [Timer] [Mode] [Jump]
 
 `/startBombTimer` serve para iniciar o cronometo no servidor, é ele que vai dizer em quanto tempo o servidor fechará, o modo que os usuarios serão informados, etc...
 
@@ -113,7 +113,7 @@ Neste parametro voce pode definir de quanto em quantos minutos o servidor avisar
 `/startBombTimer 15 1 ` -> O servidor fechará apos 15 minutos, avisando por notificacao **e de 1 em 1 minuto**
 `/startBombTimer 60 3 5 ` -> O servidor fechará apos 1 hora, sem avisar ninguem **e de 5 em 5 minutos**
 
-### Command Helper
+## Command Helper
 
 Pra que abrir este repositorio toda vez que quiser consultar pelos comandos novamente, quando existe uma HUD prontinha pra voce consultar dentro do comando!!!!
 
@@ -123,7 +123,7 @@ Se voce for um desenvolvedor de scripts, ou um dono de servidor, voce pode optar
 
 <hr>
 
-### /stopBombTimer
+## /stopBombTimer
 
 Este comando é bem simples. Como o nome ja diz, ele para um Timer que ja está ativo.
 
@@ -131,7 +131,7 @@ Voce precisa ter um Timer ja iniciado para usar este comando (óbvio :V).
 
 <hr>
 
-## Bugs e Aprimoramentos
+# Bugs e Aprimoramentos
 
 Este script ainda esta em versao BETA, então ele poderá apresentar bugs ao decorrer do uso. Caso voce encontre algum desses bugs, relate-os na seção de BUGS em meu servidor exibido em [Contatos](#contatos). Caso o bug seja consertado, seu nome sera exibido no próximo `CHANGELOG`
 
