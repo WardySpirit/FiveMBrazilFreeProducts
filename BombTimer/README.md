@@ -139,7 +139,7 @@ Se você é um desenvolvedor e viu alguma coisa que poderia ser aprimorada, cont
 
 <hr>
 
-## Contatos
+# Contatos
 
 Meu Discord: `Fenrir#9143`
 
