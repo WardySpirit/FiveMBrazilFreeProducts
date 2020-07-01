@@ -3,7 +3,7 @@
 <p style="text-align: center;"><img src="https://i.ibb.co/jrc9kkH/bombtimer.png" alt="BombTimerBanner"></p>
 
 <h1 style="text-align: center;">BombTimer</h1>
-<h3 style="text-align: center;">Desligue seu servidor automaticamente</h3>
+<h3 style="text-align: center;">Desligue seu servidor automaticamente com este poderoso script!!!</h3>
 
 ## Menu
 
