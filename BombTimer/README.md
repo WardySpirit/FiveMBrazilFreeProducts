@@ -99,6 +99,8 @@ Sao apenas 3 valores validos:
     * 2 - avisara os usuarios a cada 1 minuto por meio de um desenho grande na tela (bom em caso de problemas graves ou nova atualizacao por ser chamativa)
     * 3 - Modo anonimo, nao avisara em nenhum momento sobre o timer para os usuarios
 
+#### Exemplos
+
 `/startBombTimer 15 1` -> O servidor fechará apos 15 minutos **avisando por notificacao**
 `/startBombTimer 40 3` -> O servidor fechará apos 40 minutos **sem avisar ninguem**
 
