@@ -56,7 +56,7 @@ Aqui nos dividimos em 3 fases:
 
 Antes de usar o script, tem duas coisas que voce deve analisar:
 
-1. O comando ultiliza `IsAceAllowed()` para verificar atraves do server.cfg se o usuario tem tal permissao para executar o comando, por isso, se voce quer dar a algum usuário permissão para usar este script, peça para ele a **steam.identifier** ou o **identifier.license** dele e insira a seguinte linha no seu `server.cfg`:
+1. O script ultiliza `IsAceAllowed()` para verificar atraves do server.cfg se o usuario tem tal permissao para executar o comando, por isso, se voce quer dar a algum usuário permissão para usar este script, peça para ele a **steam.identifier** ou o **identifier.license** dele e insira a seguinte linha no seu `server.cfg`:
 
 ```cfg
 add_ace identifier.license:ADICIONE_A_LICENSA_AQUI bomber allow
@@ -66,7 +66,7 @@ sim, a permissao usada para usar o script se chama **bomber** xD.
 
 2. Verifique a versao do seu server
 
-Caso o seu servidor ainda ultilize `__resource.lua` para linkar os scripts ao server.cfg, muda o nome do arquivo `fxmanifest.lua` para `__resource.lua` e pronto, funcionara corretamente.
+Caso o seu servidor ainda utilize `__resource.lua` para linkar os scripts ao server.cfg, muda o nome do arquivo `fxmanifest.lua` para `__resource.lua` e pronto, funcionara corretamente.
 
 <hr>
 
