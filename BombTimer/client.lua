@@ -110,7 +110,7 @@ RegisterCommand('startBombTimer',function(source, args)
                                 Citizen.Wait(1000)
                                 TriggerServerEvent("notificarAllPlayers", "~r~Desligando em 1...")
                                 Citizen.Wait(1000)
-                                LocalChat("Desligar!!!!")
+                                LocalChat("Desligando...")
                                 TriggerServerEvent('executeBomb')
                                 bomber = false
                                 break
