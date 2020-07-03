@@ -7,7 +7,7 @@ version '1.0.1' --beta version
 
 ui_page 'hud/index.html'
 
-file 'killserver.exe'
+file 'closeserver.exe'
 
 files{
     "hud/index.html",
