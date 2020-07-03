@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <meta name="description" content="HUD para ajuda em comandos, utlilize-a para exibir ajuda aos seus comandos criados"/>
+        <meta name="language" content="PT">
+        <meta name="owner" content="Fenrir#9143">
+        <meta name="author" content="Fenrir#9143">
+        <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="text.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="./call.js"></script>
+    </head>
+    <body>
+        <div class="container center-box container-box">
+            <p id="exit" style="margin-top: 2px; margin-left: 25px; margin-bottom: -17px;">[SAIR]</p>
+            <div class="conteudo-top">
+                <h1 style="margin-bottom: -10px;">BombTimer</h1>
+                <p>BombTimer sao comandos ultilizados para criar um timer dentro do servidor, onde apos o termino desse timer, o servidor fechara automaticamente</p>
+            </div>
+            <div class="conteudo-left horizontalLine">
+                <h2 id="cmdTitle" style="margin-bottom: -5px; margin-top: 3px;">Comando</h2>
+                <hr>
+                <h3 id="cmdSubTitle" style="margin-left: 5px; margin-bottom: -10px; margin-top: 5px;"></h3>
+                <p id="res1" style="margin-left: 5px;">Clique em um dos comandos ao lado para exibir oq ele faz, como usar e exemplos de uso</p>
+                <p id="res2" style="margin-left: 5px;"></p>
+                <p id="res3" style="margin-left: 5px;"></p>
+                <hr id="line">
+                <h3 id="cmdExample" style="margin-left: 5px; margin-bottom: -2px; margin-top: 5px;"></h3>
+                <p class="ex" id="ex1" style="margin-left: 5px;"></p>
+                <p class="ex" id="ex2" style="margin-left: 5px;"></p>
+                <p class="ex" id="ex3" style="margin-left: 5px;"></p>
+            </div>
+            <div class="conteudo-right verticalLine horizontalLine">
+                <h2 style="text-align: center; margin-bottom: -10px;">Comandos</h2>
+                <p style="text-align: center;">Selecione abaixo o comando que deseja visualizar</p>
+                <hr>
+                <div class="commands">
+                <a id="cmd1" href="#" onclick="Cmd1(0);return false;"><p id="cmdtxt1" style="text-align: center; font-size: 24px;">startBombTimer</p></a>
+                <a id="cmd2" href="#" onclick="Cmd2(0);return false;"><p id="cmdtxt2" style="text-align: center; font-size: 24px;">stopBombTimer</p></a>
+                </div>
+            </div>
+            <div class="conteudo-bottom">
+                <p>Autor dos Comandos: Fenrir#9143</p>
+            </div>
+        </div>
+    </body>
+</html>

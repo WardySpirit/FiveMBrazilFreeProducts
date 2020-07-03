@@ -1,0 +1,104 @@
+
+body{
+    color: white;
+    font-family: "Courier New";
+}
+
+.center-box{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container-box{
+
+    height: 450px;
+    width: 800px;
+    border-radius: 1.5em;
+    box-shadow: black 0.5em 0.5em 0.3em;
+    background: rgba(0, 0, 0, 0.8); 
+}
+
+.conteudo-top{
+    height: 80px;
+    border-bottom: solid 2px #b0b3b4;
+}
+
+.conteudo-top h1, p{
+    margin-left: 5px;
+}
+
+.conteudo-left{
+    width:550px;
+    height:315px;
+    float:left;
+}
+
+.conteudo-right{
+    width:248px;
+    height:315px;
+    float:right;
+    font-size: 18px;
+}
+
+.conteudo-right p, h2{
+    margin-left: 5px;
+}
+
+a{
+    text-decoration:none;
+    color: lightgreen;
+}
+
+a > p{
+    color: white;
+}
+
+a:hover{
+    color: cyan;
+}
+
+a:hover > p{
+    color: cyan;
+}
+
+a:active{
+    color: red;
+}
+
+a:active > p{
+    color: red;
+}
+
+.conteudo-bottom{
+    float:bottom;
+}
+
+.conteudo-bottom p{
+    margin-left: 15px;
+}
+
+.verticalLine{
+    border-left: solid 2px #b0b3b4;
+    border-bottom: solid 2px #b0b3b4;
+}
+
+.horizontalLine{
+    border-bottom: solid 2px #b0b3b4;
+}
+
+.commands{
+    height: 150px;
+    margin-top: -10px;
+}
+
+.ex{
+    margin: 5px 0;
+}
+
+#line{
+    opacity: 0.0;
+}
