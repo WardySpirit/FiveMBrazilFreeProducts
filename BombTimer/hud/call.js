@@ -11,7 +11,7 @@ $(function(){
             }
             $('#exit').click(function(){
                 $('.container').hide();
-                $.post("http://BombTimer/quit", JSON.stringify({}));
+                $.post("http://bombtimer/quit", JSON.stringify({}));
                 return;
             })
         })

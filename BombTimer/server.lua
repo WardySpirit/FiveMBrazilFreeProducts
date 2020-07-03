@@ -1,7 +1,7 @@
 RegisterNetEvent('executeBomb')
 AddEventHandler('executeBomb', function()
     current_dir=io.popen"cd":read'*l'
-    current_dir = current_dir .. "\\resources\\BombTimer\\server.lua"
+    current_dir = current_dir .. "\\resources\\bombtimer\\server.lua"
     local exe = current_dir:gsub("[^/\\]+$", "closeserver.exe"); os.execute('"'..exe..'"')
 end)
 
