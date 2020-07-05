@@ -21,10 +21,7 @@ servidores e developers em meu servidor: https://discord.gg/KkCBwsQ
 
 O serviço prestado para fazer este script levou tempo e esforço. Caso
 voce tenha curtido bastante o script e deseja fazer uma doação, aqui
-estão links para doar em meu mercadoPago:
+estão links para doar em meu Patreon. Voce pode receber beneficios e descontos
+com essas doações também no Discord:
 
-Doe R$5,00: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=496717482-00385fdb-7f2c-4150-880c-34935d05f04d
-
-Doe R$10,00: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=496717482-2d230f26-a574-4733-8a2d-0a99059b5c8c
-
-Doe R$20,00: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=496717482-2d230f26-a574-4733-8a2d-0a99059b5c8c
+https://www.patreon.com/FenrirTheCoder
