@@ -146,5 +146,3 @@ Se você é um desenvolvedor e viu alguma coisa que poderia ser aprimorada, cont
 Meu Discord: `Fenrir#9143`
 
 Meu Servidor: `https://discord.gg/KkCBwsQ`
-
-Whatsapp: `+19 997775111`
